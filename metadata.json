@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Cascata Independent BaaS",
+  "description": "Plataforma de infraestrutura de dados multi-tenant auto-hospedada com SDK nativo e isolamento físico de esquemas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
